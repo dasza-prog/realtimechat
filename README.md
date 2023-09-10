@@ -2,6 +2,6 @@
 A chat web application where a person can join a session and send and receive email from the group
 
 ## Stack
-Language: Java
-Framework: Spring
+Language: Java /n
+Framework: Spring /n
 Dependencies: Spring Web, Lombok, Websocket
